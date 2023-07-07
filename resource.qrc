@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>素材/images/1.jpg</file>
+        <file>素材/images/bold.png</file>
+        <file>素材/images/cancel.png</file>
+        <file>素材/images/clear.png</file>
+        <file>素材/images/color.png</file>
+        <file>素材/images/down.png</file>
+        <file>素材/images/file.ico</file>
+        <file>素材/images/folders.png</file>
+        <file>素材/images/font.png</file>
+        <file>素材/images/groupChat 2.png</file>
+        <file>素材/images/hat.png</file>
+        <file>素材/images/Help.png</file>
+        <file>素材/images/history.png</file>
+        <file>素材/images/ic_max_huanyuan.png</file>
+        <file>素材/images/ic_max_zuida.png</file>
+        <file>素材/images/ic_sysmen.png</file>
+        <file>素材/images/icon1.png</file>
+        <file>素材/images/icon2.png</file>
+        <file>素材/images/message.ico</file>
+        <file>素材/images/message.png</file>
+        <file>素材/images/ok.png</file>
+        <file>素材/images/q151020-01.png</file>
+        <file>素材/images/qq151217-02.png</file>
+        <file>素材/images/quit.png</file>
+        <file>素材/images/register.png</file>
+        <file>素材/images/right.png</file>
+        <file>素材/images/save.png</file>
+        <file>素材/images/searchbox_button.png</file>
+        <file>素材/images/send.png</file>
+        <file>素材/images/sett.png</file>
+        <file>素材/images/share.png</file>
+        <file>素材/images/style.png</file>
+        <file>素材/images/tuer.png</file>
+        <file>素材/images/under.png</file>
+        <file>素材/tx/13.png</file>
+        <file>素材/tx/24.png</file>
+        <file>素材/tx/25.png</file>
+    </qresource>
+</RCC>
